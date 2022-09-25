@@ -7,10 +7,10 @@ This project will plot a Linear Regression graph using Matplotlib and Scikit-lea
 ## **Prerequisite**
 You can install require python libraries by running these following command if you do not have this installed in your machine.
 ```
-pip install pandas
-pip install matplotlib
-pip install sklearn
-pip install notebook
+pip3 install pandas
+pip3 install matplotlib
+pip3 install sklearn
+pip3 install notebook
 ```
 ## **Workflow**
 ![Data Science Workflow](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-workflow-1024x633.jpg)
